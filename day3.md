@@ -23,3 +23,6 @@ http://opencircuitdesign.com/magic/
 
 
 <img width="664" height="657" alt="image" src="https://github.com/user-attachments/assets/d864cbbb-07c1-4d87-97c8-15e47be09ff1" />
+
+poly.9 lab
+<img width="376" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd6e0de-e6a4-4d71-ad14-cb4e5c026f69" />

@@ -26,3 +26,7 @@ http://opencircuitdesign.com/magic/
 
 poly.9 lab
 <img width="376" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd6e0de-e6a4-4d71-ad14-cb4e5c026f69" />
+
+challenge-color difference
+<img width="551" height="658" alt="image" src="https://github.com/user-attachments/assets/b7be528f-bac7-42d7-beef-d4625cfed3f1" />
+

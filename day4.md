@@ -10,3 +10,4 @@ to create the grid:
 
 
 <img width="766" height="504" alt="image" src="https://github.com/user-attachments/assets/b50d8cdb-2cac-428c-a599-fcf45e903516" />
+<img width="659" height="356" alt="image" src="https://github.com/user-attachments/assets/3fa70fd2-86eb-485f-b927-fcf547ab26a8" />

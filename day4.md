@@ -17,3 +17,6 @@ to create the grid:
 <img width="908" height="744" alt="image" src="https://github.com/user-attachments/assets/36589cf1-83c9-4c9b-901e-41b488dd93c1" />
 
 <img width="326" height="251" alt="image" src="https://github.com/user-attachments/assets/56d8e4e7-b942-4515-b9bb-65b14eb80ece" />
+
+<img width="903" height="493" alt="image" src="https://github.com/user-attachments/assets/c27aa9cf-8498-479b-ae82-ca75d5bf4773" />
+

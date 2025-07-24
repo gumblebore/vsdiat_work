@@ -20,3 +20,4 @@ to create the grid:
 
 <img width="903" height="493" alt="image" src="https://github.com/user-attachments/assets/c27aa9cf-8498-479b-ae82-ca75d5bf4773" />
 
+<img width="892" height="83" alt="image" src="https://github.com/user-attachments/assets/50c5af9d-d183-4a98-a778-3589dfae4c71" />
